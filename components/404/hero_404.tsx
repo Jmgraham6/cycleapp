@@ -1,5 +1,5 @@
 "use client";
-import { MapPinOff } from "lucide-react";
+import { BikeOff } from "lucide-react";
 
 
 export default function Hero404() {
